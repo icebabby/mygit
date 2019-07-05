@@ -12,6 +12,7 @@ import org.springframework.test.context.junit4.SpringRunner;
         @Test
         public void contextLoads() {
             System.out.println("i am ok");
+
             System.out.println("ok");
             System.out.println("lol");
         }
